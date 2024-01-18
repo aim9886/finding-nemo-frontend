@@ -1,0 +1,31 @@
+"_id": "64dd01c026137cb8a6bf2dc5",
+"image": "Hemanth",
+"studentName": "Hemanth Kumar",
+"itemTitle": "Bag",
+"itemDescription": "Bottle green coloured hand bag",
+"contactNo": "9886085432",
+"email": "hemu9448@gmail.com",
+"lostLocation": "Campus 6, KIIT",
+"lostTime": "16/8/2023",
+"category": "LOST",
+"createdAt": "2023-08-16T17:05:04.853Z",
+"updatedAt": "2023-08-16T17:05:04.853Z",
+"__v": 0
+
+
+lostTime, contactNo : not required
+rename lostLocation -> location
+
+
+
+category: "LOST"
+createdAt: "2024-01-18T08:06:48.177Z"
+image: "Hemanth"
+email: "hemu9448@gmail.com"
+itemDescription: "Black Coloured Mobile Phone"
+itemTitle: "Mobile"
+lostLocation: "Campus 6, KIIT"
+studentName: "Hemanth Kuamr"
+updatedAt: "2024-01-18T08:06:48.177Z"
+__v: 0
+_id: "65a8dc1838a9a09dfaf39de1"
