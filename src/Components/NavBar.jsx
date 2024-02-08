@@ -6,7 +6,7 @@ const NavBar = (props) => {
   return (
     <div className="navBar">
       <Link to="/" className="cursor-pointer title">
-        Finding Nemo
+        Finding Everything
       </Link>
       <div>
         <Link
