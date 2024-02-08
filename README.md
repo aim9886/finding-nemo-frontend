@@ -1,3 +1,14 @@
+<H1 align ="center" > MERN STUDENT MANAGEMENT SYSTEM </h1>
+<h5  align ="center"> 
+Fullstack open source student management system application made with MongoDB, Express, React & Nodejs (MERN) </h5>
+<br/>
+
+
+<img align="center" alt="" src="./src/Img/finding1.png">
+<img align="center" alt="" src="./src/Img/finding2.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
