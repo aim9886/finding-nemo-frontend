@@ -1,6 +1,6 @@
-<H1 align ="center" > MERN STUDENT MANAGEMENT SYSTEM </h1>
+<H1 align ="center" > MERN FINDING EVERYTHING </h1>
 <h5  align ="center"> 
-Fullstack open source student management system application made with MongoDB, Express, React & Nodejs (MERN) </h5>
+Fullstack open source finding everything system application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
 
 
